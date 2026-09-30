@@ -1,0 +1,20 @@
+# Thư mục dữ liệu nặng & JDK nội bộ
+algs4-data/
+.jdks/
+algs4.jar
+*.jar
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Build outputs (Maven & Gradle)
+target/
+build/
+
+# VS Code & Eclipse
+.vscode/
+.DS_Store
